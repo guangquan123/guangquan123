@@ -14,24 +14,15 @@
 
 
 
-- 💻 &nbsp;  | Java | Scala | Shell|SQL
+- 💻 &nbsp;  | Java| Scala| Shell| SQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Linux| ElasticSearch| SpringBoot| Mybatis| Mysql| Oracle| Redis|
 
 <hr>
 
