@@ -22,7 +22,7 @@
 
 <h3>🛠 To Learn</h3>
 
--  &nbsp; Linux|   ElasticSearch|   SpringBoot|   Mybatis|   Mysql|   Oracle|   Redis|Kafka|Spark|Flink
+-  &nbsp; Linux|   ElasticSearch|   SpringBoot|   Mybatis|   Mysql|   Oracle|   Redis|  Kafka|  Spark|  Flink
 
 <hr>
 
