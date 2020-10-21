@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; 热爱技术，良好的沟通以及表达能力，善于分析问题并解决问题，自我驱动式的学习
+-  &nbsp; 热爱技术，良好的沟通以及表达能力，善于分析问题并解决问题，自我驱动式学习
 
 
 
@@ -14,9 +14,11 @@
 
 
 
-- 💻 &nbsp;  | Java| Scala| Shell| SQL
-
-
+- 💻 &nbsp;  
+- &nbsp;  Java
+- &nbsp;  Scala
+- &nbsp;  Shell
+- &nbsp;  SQL
 
 
 
